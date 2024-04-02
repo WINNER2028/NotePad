@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-To install Tailwind CSS for the NotePad project, steps followed:
+## To install Tailwind CSS for the NotePad project, steps followed:
 
 1. Install Tailwind CSS and its dependencies via npm or yarn:
 
