@@ -10,7 +10,7 @@ To get started with NotePad, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/notepad.git
+git clone https://github.com/WINNER2028/notepad.git
 ```
 
 2. Navigate to the project directory:
