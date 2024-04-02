@@ -38,7 +38,7 @@ function App() {
     <div className="w-full min-h-screen bg-gradient-to-br from-[#000906] to-[#0f0f01] text-white pt-4 pl-10">
       <h1 className='flex items-center justify-center text-5xl font-semibold'>
         <img src={noteImage} alt="note-icon" />
-       My NotePad
+       My NotePad!
       </h1>
       <button className="flex items-center bg-gradient-to-br from-[#f2eb64] to-[#c52289] text-black font-bold text-2xl outline-none border-none rounded-full py-4 px-6 my-8 mx-5 cursor-pointer" onClick={handleCreateNote}>
         Enter Notes
