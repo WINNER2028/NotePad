@@ -62,9 +62,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Please make sure to follow the code of conduct and contribution guidelines.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
