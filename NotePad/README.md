@@ -50,4 +50,4 @@ This command will create a `tailwind.config.js` file in your project's root dire
 
 5. Ensure that your build tool is configured to process CSS files using PostCSS. If you're using Vite, this is typically handled out of the box.
 
-That's it! Now Tailwind CSS is installed and ready to use in the NotePad project. You can start using Tailwind's utility classes in your React components or HTML templates.
+That's it! Now Tailwind CSS is installed and ready to use in the NotePad project. You can start using Tailwind's utility classes in your React components or HTML templates....
